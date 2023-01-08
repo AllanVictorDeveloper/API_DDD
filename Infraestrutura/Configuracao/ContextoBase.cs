@@ -36,7 +36,7 @@ namespace Infraestrutura.Configuracao
 
         public string ObterStringConnection()
         {
-            return "Server=CAVEIRAO;Database=API_DDD_2023;User ID=sa;Password=xxxxx;Trusted_Connection=False;";
+            return "Server=CAVEIRAO;Database=API_DDD_2023;User ID=sa;Password=Dev@llan73;Trusted_Connection=False;";
         }
 
     }
